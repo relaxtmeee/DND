@@ -2,7 +2,7 @@ import { FC } from "react";
 
 const TextArea:FC = ():JSX.Element => {
     return (
-        <textarea></textarea>
+        <textarea placeholder="Введите текст"></textarea>
     );
 };
 
